@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisisnotkj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, Java, LUA, HTML, CSS, JS, Python
+- 🌱 I’m currently learning HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on *nothing* at the moment
 - 📫 How to reach me twitter.com/thisisnotkj
 
