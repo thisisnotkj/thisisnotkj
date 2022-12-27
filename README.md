@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisnotkj
-- 👀 I’m interested in coding
+- 👀 I’m interested in making videogames
 - 🌱 I’m currently learning HTML, CSS, JS, MYSQL, Python, Lua
 - 💞️ I’m looking to collaborate on *nothing* at the moment
 - 📫 How to reach me twitter.com/thisisnotkj
