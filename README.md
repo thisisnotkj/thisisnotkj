@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisisnotkj
 - 👀 I’m interested in making videogames
-- 🌱 I’m currently learninG: Python, Lua, MYSQL,HTML, CSS, JS
+- 🌱 I’m currently learning: Python, Lua, MYSQL,HTML, CSS, JS
 - 💞️ I’m looking to collaborate on *nothing* at the moment
 - 📫 How to reach me twitter.com/thisisnotkj
 
