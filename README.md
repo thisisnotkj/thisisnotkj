@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thisisnotkj
 - 👀 I’m interested in making videogames,websites and all sorts of cool stuff!
 - 🌱 I’m currently learning: AI and Machine learning, Python, Lua, MYSQL, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on *nothing* at the moment
+- 💞️ I’m looking to collaborate on *Autonomous Agent Swarms* at the moment
 - 📫 How to reach me twitter.com/thisisnotkj
 
 <!---
